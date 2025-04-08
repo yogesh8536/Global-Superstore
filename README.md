@@ -66,5 +66,7 @@ ________________________________________
 •	Senior Management & Business Analysts
 
 Data: https://github.com/yogesh8536/Global-Superstore/blob/main/global_superstore_2016.xlsx
+
 Dashboard: https://github.com/yogesh8536/Global-Superstore/blob/main/Global%20Superstore.pbix
+
 Image: https://github.com/yogesh8536/Global-Superstore/blob/main/Global%20Superstore.JPG
